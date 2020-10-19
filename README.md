@@ -13,7 +13,7 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |**contents**| **links**             |   **Title**|
 |---        |---                     |    ---     |
 |  read-01  | [Link](/read-01.md)    |Responsive Overview            |
-|  read-02  | [Link](/read-02.md)    |            |
+|  read-02  | [Link](/read-02.md)    |jQuery, Events, and The DOM    |
 |  read-03  |  [Link](/read-03.md)   |            |
 |  read-04  | [Link](/read-04.md)    |            |
 |  read-05  |  [Link](/read-05.md)   |            |
