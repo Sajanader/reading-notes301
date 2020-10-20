@@ -29,7 +29,7 @@ When this method is used to retrieve information
 from a jQuery selection, it retrieves only the HTML
 inside the first element in the matched set, along
 with any of its descendants.
-For example, $ (' u l ' ) • html () ; will return this:
+For example, ```$ (' u l ' ) • html () ; will return this:```
 ```
 <li id="one"><em>fresh</em> figs</li>
 <l i id="two">pine nuts</li>
@@ -53,6 +53,7 @@ balsamic vint;!gar
 Whereas $ ( 'l i ') . text () ; will return this:
 fresh figspine nutshoneybalsamic vinegar 
 ```
+
 ### example 
 
 **JAVASCRIPT** 
@@ -64,6 +65,7 @@ HTML inside it (the four <1 i> elements). This is then appended to the
 end of the selection, in this case after the existing <1 i >elements.
 ```
 **JAVASCRIPT**
+
 ```
 var $1istText = $('ul').text();
 ${'ul ') . append('<p>' + $listText + 1
@@ -72,7 +74,9 @@ The selector returns the <u 1 > element. The . text() method gets the
 text from all of the <ul >element's children. This is then appended to the
 end of the selection, in this case after the existing <ul >element.
 ```
-***JAVASCRIPT**
+
+**JAVASCRIPT**
+
 ```
 var $1 i stltemHTML = $ ( '1 i ') . html() ;
 $('1i ') . append{'<i>' + $1istltemHTML + '</ i>') ;
@@ -80,11 +84,14 @@ The selector returns the four <1 i >elements, but the • html () method
 returns only the contents of the first one. This is then appended to the
 end of the selection, in this case after each existing <1 i> element.
 ```
-** JAVASCRIPT**
+
+**JAVASCRIPT**
+
 ```
 var $1istltemText = $('1i ').text();
 ${'li ').append('<i>' + $1istltemText + '</ i>
 ```
+
 ###  jQuery Cheat Sheet
 ![ jQuery Cheat Sheet](https://blog.templatetoaster.com/wp-content/uploads/2018/02/OverAPI-jQuery-Cheat-Sheet.jpg)
 
