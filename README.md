@@ -16,7 +16,7 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |  read-02  | [Link](/read-02.md)    |jQuery, Events, and The DOM    |
 |  read-03  |  [Link](/read-03.md)   |Flexbox and Templating |
 |  read-04  | [Link](/read-04.md)    | CSS GRID           |
-|  read-05  |  [Link](/read-05.md)   |            |
+|  read-05  |  [Link](/read-05.md)   |Heroku Deployment          |
 |  read-06  | [Link](/read-06.md)    |            |
 |  read-07  |[Link](/read-07.md)     |            |
 |  read-08  |[Link](/read-08.md)     |            |
