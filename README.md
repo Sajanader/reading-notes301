@@ -19,7 +19,7 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |  read-05  |  [Link](/read-05.md)   |Heroku Deployment          |
 |  read-06  | [Link](/read-06.md)    |            |
 |  read-07  |[Link](/read-07.md)     | APIs continued           |
-|  read-08  |[Link](/read-08.md)     |            |
+|  read-08  |[Link](/read-08.md)     | SQL        |
 |  read-09  | [Link](/read-09.md)    |            |
 |  read-10  | [Link](/read-10.md)    |            |
 |  read-11  |  [Link](/read-11.md)   |            |
