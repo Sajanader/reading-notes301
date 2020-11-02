@@ -22,7 +22,7 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |  read-08  |[Link](/read-08.md)     | SQL        |
 |  read-09  |[Link](/read-09.md)    | Refactoring|
 |  read-10  | [Link](/read-10.md)    |            |
-|  read-11  |  [Link](/read-11.md)   |            |
+|  read-11  |  [Link](/read-11.md)   | EJS          |
 |  read-12  | [Link](/read-12.md)    | EJS PARTIALS        |
 |  read-13  | [Link](/read-13.md)    |            |
 |  read-14  | [Link](/read-14.md)    |            |
